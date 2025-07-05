@@ -1,0 +1,7 @@
+[package]
+name = "SmartSlice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ffmpeg-next = "7.1.0"
